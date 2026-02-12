@@ -52,4 +52,7 @@ public class Character {
         }
     }
 }
+~~~
+<img width="1550" height="848" alt="UML Class Diagram - Strategy Pattern" src="https://github.com/user-attachments/assets/1c53c0b0-ae19-463c-bc86-f08f52e56fa8" />
+
 
